@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "translations": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
